@@ -1,0 +1,15 @@
+{
+  "name": "photopshop-script",
+  "version": "0.0.1",
+  "description": "My ps script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commitizen": "^4.3.0",
+    "cz-template": "^0.0.12"
+  }
+}
